@@ -1,0 +1,12 @@
+Player: Simon
+Average: 1270
+Intermediate
+
+Player: Albert
+Average: 1880
+Master - Good Job!
+
+Player: Alvin
+Average: 2662
+Congrats! You are an Expert!
+
