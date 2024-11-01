@@ -28,7 +28,7 @@ int main()
     //while the end of inFile has not been reached yet 
      while (inFile) {
 
-        //Given that Score one is 20% of the player’s average, score two is 30% of the player’s average and score             three is 50% of the player’s average: 
+        //Given that Score one is 20% of the player’s average, score two is 30% of the player’s average and score three is 50% of the player’s average: 
         average = 0.2*scoreOne + 0.3*scoreTwo + 0.5*scoreThree; //evaluating the average
          
         //setting conditions for the average 
@@ -58,5 +58,19 @@ int main()
     // Close the file when finished
     inFile.close(); 
     outFile.close();
+    
     return 0;
 }
+/*
+Player: Simon
+Average: 1270
+Intermediate
+
+Player: Albert
+Average: 1880
+Master - Good Job!
+
+Player: Alvin
+Average: 2662
+Congrats! You are an Expert!
+*/
